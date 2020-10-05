@@ -1,7 +1,6 @@
 set nu
 
 
-
 "NerdTree
 map <C-\> :NERDTreeToggle<CR>
 
