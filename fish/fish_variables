@@ -1,7 +1,5 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
-SETUVAR --export LIB_GUIDES_API_KEY:f2c7dab125d14e226fe18c55a11623ce
-SETUVAR --export LIB_GUIDES_SITE_ID:17
 SETUVAR --export PYENV_ROOT:/Users/cbn/\x2epyenv
 SETUVAR __fish_initialized:3100
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
