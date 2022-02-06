@@ -8,3 +8,7 @@ set PATH $PATH $HOME/.cargo/bin
 if test -e ~/.local.fish
 	source ~/.local.fish
 end
+source ~/.iterm2_shell_integration.(basename $SHELL)
+# Created by `userpath` on 2020-12-21 16:20:20
+set PATH $PATH /Users/chad/.local/bin
+set -g fish_user_paths "/usr/local/opt/node@14/bin" $fish_user_paths
